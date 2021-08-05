@@ -1,0 +1,20 @@
+{
+  "name": "react-dzzpji",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "google-map-react": "^1.1.2",
+    "prop-types": "^15.5.6",
+    "react": "16.5.0",
+    "react-dom": "16.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
